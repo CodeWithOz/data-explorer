@@ -16,7 +16,8 @@
   align-items: center;
 }
 
-.title a {
+.title a,
+.footer a {
   color: #0070f3;
   text-decoration: none;
 }
@@ -114,14 +115,5 @@
   display: flex;
   justify-content: center;
   align-items: center;
-}
-.footer img {
-  margin-left: 0.5rem;
-}
-.footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-decoration: none;
-  color: inherit;
+  gap: 0.3rem;
 }
