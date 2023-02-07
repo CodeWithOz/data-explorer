@@ -4,6 +4,8 @@ import styles from '../styles/Home.module.css';
 export default function Home() {
   const reports: string[] = [
     'fertility-income-life-expectancy.html',
+    'wrangle_report.html',
+    'act_report.html',
   ]
   const title = 'Data Explorer'
   const subtitle = 'Learning the ropes of data analysis, one dataset at a time'
