@@ -6,6 +6,7 @@ export default function Home() {
     'fertility-income-life-expectancy.html',
     'wrangle_report.html',
     'act_report.html',
+    'gobike-slide-deck.slides.html',
   ]
   const title = 'Data Explorer'
   const subtitle = 'Learning the ropes of data analysis, one dataset at a time'
